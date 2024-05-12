@@ -27,6 +27,8 @@ import os
 import time
 import winreg
 import sys
+from win32file import * ##pywin32
+from win32gui import * ##pywin32
 import base64
 import getpass
 import ctypes
