@@ -1,4 +1,6 @@
 '''
+Created by LukeSecurity and edited by Alchemy.
+
 MyFear ransomware.
 DON'T USE THIS FOR ILLEGAL PURPOSES!
 Happy Hacking! ~Z3r0Squ4d
