@@ -111,7 +111,7 @@ if admin():
     your file has been encrypted by MyFear.
     '''
     choice = input('Do you want get back your computer? (y/N)')
-    if choice == 'y' or 'Y':
+    if choice == 'y' or choice == 'Y':
         print('Ok, you can go back your computer!\n')
         print('Loading.....\n')
         time.sleep(5)
